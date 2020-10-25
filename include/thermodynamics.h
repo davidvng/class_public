@@ -47,6 +47,7 @@ enum select_dmb_target {
   baryon,    /**< generic baryonic particle */
   hydrogen,  /**< neutral and ionized hydrogen-1 */
   helium     /**< neutral and ionized helium-4 */
+  electron   /**< free electrons */
 };
 
 /**
